@@ -1,3 +1,5 @@
+//purpose:to create a single frame which displays 4 lables of a book shop by this project we can add delete and search in
+a list and we can also traverse  our data in both directions.
 package exam;
 
 import java.awt.Color;
