@@ -1,3 +1,4 @@
+#python project ncu 
 import time
 import datetime
 from tkinter import*
