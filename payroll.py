@@ -1,4 +1,4 @@
-#python project ncu 
+#python project ncu yashwin and tushar and yogita
 import time
 import datetime
 from tkinter import*
